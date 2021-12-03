@@ -1,0 +1,2 @@
+streamlit==1.2.0
+pytube==11.0.1
